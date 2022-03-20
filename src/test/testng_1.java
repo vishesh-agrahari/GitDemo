@@ -19,5 +19,13 @@ public class testng_1 {
 	public void test2() {
 		System.out.println("test2 passsed");
 	}
+	@Test
+	public void test3() {
+		System.out.println("test3 passsed");
+	}
+	@Test
+	public void test4() {
+		System.out.println("test4 passsed");
+	}
 
 }
